@@ -1,7 +1,4 @@
-# Dhruv-code
-This is my first repo
-<br>
-written by dhruv (Khandelwal)
+// written by dhruv_Khandelwal
 
 public static void mergeSort(int[] arr) {
     if (arr == null || arr.length <= 1)
